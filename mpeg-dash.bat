@@ -1,0 +1,1 @@
+php generate.php http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd Dash dash
